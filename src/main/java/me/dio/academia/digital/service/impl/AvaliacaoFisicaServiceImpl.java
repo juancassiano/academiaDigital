@@ -1,4 +1,4 @@
-package me.dio.academia.digital.controller;
+package me.dio.academia.digital.service.impl;
 
 import me.dio.academia.digital.entity.Aluno;
 import me.dio.academia.digital.entity.AvaliacaoFisica;
